@@ -1,3 +1,5 @@
+<img src="https://github.com/LukasPol/LukasPol/blob/images/images/welcome.gif" width="450" height="300"/>
+
 ### Hi there 👋
 
 <!--
