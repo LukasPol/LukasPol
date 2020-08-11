@@ -1,5 +1,3 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=lukaspol&show_icons=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&title_color=fff">
-
 ### Hi I'm Lukas Pol! 👋
 
 - I'm 22 years old, I'm living in Rio Grande do Norte, BR
@@ -26,6 +24,8 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
+<img src="https://github-readme-stats.vercel.app/api?username=lukaspol&show_icons=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&title_color=fff">
 
 <!--
 **LukasPol/LukasPol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
