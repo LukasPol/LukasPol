@@ -9,10 +9,12 @@
 [<img align="left" alt="lukaspol_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="lukaspaespol@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
+<br />
 <!--
 #### Web Sites
 [DevCoder](https://lukaspol.github.io/DevChallenge-Codar/) 
 -->
+<br />
 
 #### Skills(Languages and Tools)
 
@@ -32,7 +34,8 @@
 <img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Docker" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/docker/docker.png" />
 
-<br/>
+<br /><br />
+-----
 
 <img align="left" alt="LukasPol's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LukasPol&show_icons=true&hide_border=true" />
 
