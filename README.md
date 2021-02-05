@@ -3,12 +3,10 @@
 - I'm 22 years old, I'm living in Rio Grande do Norte, BR
 - I work at Insight Sistemas
 - I'm currently learning Ruby On Rails and Flutter
-
-[<img align="left" alt="LukasPol | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="polzinn_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="lukaspol_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<!--
+[<img align="left" alt="LukasPol | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color:red;"/>][linkedin]
 [<img align="left" alt="lukaspaespol@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-
+-->
 <br />
 <!--
 #### Web Sites
