@@ -1,7 +1,7 @@
 ### Hi I'm Lukas Pol! 👋
 
 - I'm 22 years old, I'm living in Rio Grande do Norte, BR
-- I work at Insight Sistemas
+- I work at Intejato Soluções, I work with microsservices (Django, Kakfa, React a script python, Redis, MongoDB, Postgres and WebSocket)
 - I'm currently learning Ruby On Rails and Flutter
 <!--
 [<img align="left" alt="LukasPol | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color:red;"/>][linkedin]
