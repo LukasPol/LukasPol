@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lukas Pol</h1>
-<h3 align="center">Desenvolvedor Web na @DSB | Ruby on Rails, VueJS com NuxtJS</h3>
+<h3 align="center">Desenvolvedor Web | Ruby on Rails, VueJS com NuxtJS</h3>
 
 - 🌱 I’m currently learning **Ruby | Ruby on Rails | VueJS**
 
