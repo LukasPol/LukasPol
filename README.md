@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lukas Pol</h1>
 <h3 align="center">Desenvolvedor Web </h3>
 
-- 🌱 I’m currently learning **Ruby | Ruby on Rails | VueJS | NuxtJS**
+- 🌱 I’m currently learning **Ruby | Ruby on Rails **
 
 - 📫 How to reach me **lukaspaespol@gmail.com**
 
